@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+body {
+  background-color: #eff6ff;
+}
+
+.shadow-blue {
+  box-shadow: 0 4px 20px -2px rgba(37, 99, 235, 0.15);
+}
+
+.shadow-blue-lg {
+  box-shadow: 0 10px 40px -4px rgba(37, 99, 235, 0.2);
+}
+
+.border-blue {
+  border: 1px solid rgba(37, 99, 235, 0.2);
+}
